@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "BeeldHerkennning1", "BeeldHerkennning1\BeeldHerkennning1.vbproj", "{19046171-0D98-494F-B9EF-D00038AB79E1}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BeeldHerkennning1ML.Model", "BeeldHerkennning1ML.Model\BeeldHerkennning1ML.Model.csproj", "{3C9CFDBF-3BDF-47B1-A842-C099998DAD42}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BeeldHerkennning1ML.ConsoleApp", "BeeldHerkennning1ML.ConsoleApp\BeeldHerkennning1ML.ConsoleApp.csproj", "{028D7390-AE3A-4181-A1D7-D6915729E9C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{19046171-0D98-494F-B9EF-D00038AB79E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19046171-0D98-494F-B9EF-D00038AB79E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19046171-0D98-494F-B9EF-D00038AB79E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C9CFDBF-3BDF-47B1-A842-C099998DAD42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C9CFDBF-3BDF-47B1-A842-C099998DAD42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C9CFDBF-3BDF-47B1-A842-C099998DAD42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C9CFDBF-3BDF-47B1-A842-C099998DAD42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{028D7390-AE3A-4181-A1D7-D6915729E9C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{028D7390-AE3A-4181-A1D7-D6915729E9C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{028D7390-AE3A-4181-A1D7-D6915729E9C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{028D7390-AE3A-4181-A1D7-D6915729E9C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

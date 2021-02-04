@@ -6,4 +6,8 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\BeeldHerkennning1ML.Model\BeeldHerkennning1ML.Model.csproj" />
+  </ItemGroup>
+
 </Project>
